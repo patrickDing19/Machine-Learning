@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+.hello-world {
+    font-size: 24px;
+    font-weight: bold;
+}
